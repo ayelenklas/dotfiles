@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = ayelenklas@gmail.com
+	name = Ayelen Klas
